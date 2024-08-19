@@ -1,6 +1,8 @@
 # About Me:
 I am a Senior Software Engineer specializing in front-end development and dynamic web applications. At Modak Analytics, I architected a Vue.js framework that streamlined deployment by enabling dynamic updates without traditional CI/CD cycles. I also developed an intelligent web SQL editor with real-time, context-aware suggestions, improving user productivity. My skills include creating dynamic forms and tables, manipulating DOM elements with JavaScript and jQuery, and implementing CI/CD pipelines using Azure DevOps. Currently pursuing a Master's degree in Cybersecurity, I combine hands-on experience with strong academic knowledge to deliver efficient and secure software solutions.
 
+`My Github profile may not match with my professor experience because I have professional and industry experience in frontend development developing complex modules where as, I thrive to update my skillset personally in machine learning.`
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-chilakala) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/naveen-chilakala) 
